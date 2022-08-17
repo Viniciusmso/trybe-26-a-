@@ -5,8 +5,10 @@ body{
     background-color: #fefae0;
 }
 main{
+    height: 100%;
     background-color: white;
-    padding: 0px 10px;
+    padding: 0px 0px 0px 10px;
+    display:inline-block;
 }
 header{
     background-color: #fefae0;
@@ -29,4 +31,12 @@ nav{
 main{
     margin: 0px 20px;
     box-shadow: 0px 0px 1px black;
+}
+#section-about{
+    height: auto;
+    width:40%;
+    float: right;
+    box-shadow: -1px 3px 10px black;
+    padding: 5px;
+    text-align: center;
 }
