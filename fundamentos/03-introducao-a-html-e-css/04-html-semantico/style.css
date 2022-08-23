@@ -37,37 +37,36 @@ nav {
 
 #block-aside {
     float: right;
-    width: 25%;
-    height: 100%;
+    width: 100px;
 }
 
-.text-style {
-    width: 72%;
+#imagem-lado {
+    width: 300px;
+    margin: auto;
 }
 
-h2 , p {
-    padding: 5px 
-}
-
-#article-img {
-    height: auto;
+.informacao { 
+    display:inline-flex;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
     width: 100%;
+    line-height: 1.5em;
 }
 
-.section-inline {
-     height: 130px;
-    border-radius: 10px;
-    display: inline-block;
+.texto > p{
+    margin-inline-start: 10px;
+}
+.texto > h2, h3{   
+    padding: 5px;
 }
 
-footer {
-    background-color: #293241;
-    text-align: center;
-    height: 40px;
-    color: white;
 
+.imagens > img {
+    display: block;
+    margin: auto;
+    margin: auto;
+    height: 400px;
+    padding: 10px;
+    
 }
 
-footer > p {
-    padding: 10px 0;
-}
