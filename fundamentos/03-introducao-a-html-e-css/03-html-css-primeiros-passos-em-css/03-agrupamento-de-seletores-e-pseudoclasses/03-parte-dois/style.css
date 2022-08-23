@@ -1,0 +1,19 @@
+#border-one:hover{
+    border: solid 5px #9b5de5;
+}
+#border-two:hover{
+    border: solid 5px #f15bb5;
+}
+#border-three:hover{
+    border: solid 10px #fee440;
+}
+#border-four:hover{
+    border: solid 5px #003049
+}
+#border-five:hover{
+    border: solid 5px #00f5d4;
+}
+.text-type{
+        font-style: italic;
+        font-family: 'Times New Roman', Times, serif
+}

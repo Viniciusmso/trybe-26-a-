@@ -9,5 +9,5 @@ Parte I - Comandos de Input e Output 💻
 - [x] Conte o número de linhas que contêm as letras br.
 - [x] Conte o número de linhas que não contêm as letras br.
 - [x] Adicione dois nomes de países ao final do arquivo phrases2.txt.
-- [x] Crie um novo arquivo chamado bunch_of_things.txt com os conteúdos dos arquivos phrases2.txt e countries.txt
+- [x] Crie um novo arquivo chamado bunch_of_things.txt com os conteúdos dos arquivos phrases2.txt e countries.txt.
 - [x] Crie um novo arquivo bunch_of_things_ordered.txt com o conteúdo do arquivo bunch_of_things.txt ordenado.
