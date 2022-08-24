@@ -7,6 +7,8 @@ function verifica(a, b,) {
     return maior;
 };
 
+console.log(verifica(4, 9))
+
 function verificaTres(a, b, c) {
     let maior = '';
     
