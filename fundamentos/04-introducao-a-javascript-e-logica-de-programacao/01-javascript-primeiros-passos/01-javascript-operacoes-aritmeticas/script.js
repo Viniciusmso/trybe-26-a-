@@ -2,7 +2,7 @@ function adicao(a, b) {
     return a + b;
 }
 
-function subtrcao(a, b) {
+function subtracao(a, b) {
     return a - b;
 }
 
