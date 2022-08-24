@@ -3,9 +3,11 @@ function positiveOrNegative(a) {
     
     if (a > 0) {
         resultado = "Positive"; 
-    } else resultado = "Negative";
+    } else if (a == 0) {
+        resultado = "Zero"
+    }else resultado = "Negative";
     
     return resultado;
 }
 
-console.log(positiveOrNegative(2))
+console.log(positiveOrNegative(-1))
