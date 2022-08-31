@@ -33,13 +33,13 @@ _São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento
 - [x] 02: JavaScript - Array e loop for
 - [x] 03: JavaScript - Lógica de programação e algoritmos
 - [x] 04: JavaScript - Objetos e funções
-- [ ] **05: Projeto - Playground Functions**
+- [x] **05: Projeto - Playground Functions**
 
 #### Bloco 05: JavaScript: DOM, Eventos e Web Storage
-- [ ] 01: JavaScript - DOM e seletores
-- [ ] 02: JavaScript - Trabalhando com elementos
-- [ ] 03: JavaScript - Eventos
-- [ ] 04: JavaScript - Web Storage
+- [x] 01: JavaScript - DOM e seletores
+- [x] 02: JavaScript - Trabalhando com elementos
+- [x] 03: JavaScript - Eventos
+- [x] 04: JavaScript - Web Storage
 - [ ] 05: Fundamentos - JavaScript - Projetos
 - [ ] **05: Projeto - Arte com Pixels**
 - [ ] **06: (Bônus) Projeto - Lista de tarefas**
