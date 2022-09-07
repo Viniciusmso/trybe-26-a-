@@ -1,0 +1,55 @@
+#section-form {
+    width: 80%;
+    padding: 10px;
+    border: solid 1px gray;
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+  width: 80%;
+  text-align: center;
+  margin: auto;}
+
+#content-email {
+  margin: 10px 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#content-option {
+    margin: 15px 0;
+}
+
+.content-form {
+    padding: 5px;
+}
+
+#board-text {
+    display: block;
+    width: 100%;
+    margin: 15px 0;
+    resize: none;
+}
+
+#data {
+    margin: 0 5px 
+}
+
+#check-content {
+    margin: 10px 0;
+}
+
+#section-button {
+   width: 82%;
+   margin: auto;
+
+}
+
+.button {
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 2px;
+    width: 170px;
+    font-size: 1.2em;
+    color: gray;
+}
