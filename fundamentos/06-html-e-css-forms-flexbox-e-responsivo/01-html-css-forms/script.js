@@ -12,10 +12,10 @@ function maxlength() {
   const emailText = document.getElementById('email');
   const boardText = document.getElementById('board-text');
   if (nameText.selectionStart < 10 || nameText.selectionStart > 40) {
-      alert('Dados Inválidos 1');
+      alert('Dados Inválidos');
     }else if (emailText.value.length < 10 || emailText.value.length > 50) {
-      alert('Dados Inválidos 2');
+      alert('Dados Inválidos');
     }else if (boardText.selectionStart > 500 || boardText.selectionStart < 10) {
         alert('Dados Inválidos');
-        } 
+    } 
 }
