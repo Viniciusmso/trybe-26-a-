@@ -1,10 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgba(17, 173, 80, 0.626);
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 30px;
+    margin-bottom: 40px;
+    box-shadow: 0px -2px 15px black;
+}
+
+h1 {
+   padding-top: 30px;
+   color: rgb(56, 168, 61);
+   font-size: 1.5em;
+   font-family: 'Poppins', sans-serif;}
+
+main {
+    background-color: white;
+    height: 100%;
+    margin: auto;
+    width: 80%;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0px 5px 3px black;
+}
 .container-sm {
     margin-bottom: 10px;
 }
-main {
-    border: solid 1px gray;
+
+
+#text-board , #board-text , #text-date{
+    margin: 15px 0;
+    resize: none;
 }
 
-title {
-    margin: 15px;
+#enviar , #apagar {
+    width: 150px;
+    margin: 50px 2px 0 0;
+}
+
+#enviar {
+    background-color: rgb(56, 168, 61);
+    border: solid 1px rgb(56, 168, 61);;
+}
+
+#destiny , #check-options{
+    margin: 30px 0;
 }

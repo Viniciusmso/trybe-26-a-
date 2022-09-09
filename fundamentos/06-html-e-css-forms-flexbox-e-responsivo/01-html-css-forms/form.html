@@ -13,22 +13,27 @@
     <header class="text-center display-6">
         <h1 id="title">Viagem Premiada</h1>
     </header>
-    <main class="container-sm">
+    <main>
             <form method="get">
 
-                <div class="container-sm">
-                    <label for="name" class="lead">Nome:</label>
-                    <input type="text" name="user-name" id="name"  class="form-control" max="10" min="40">
+                <div class="container-sm" >
+                    <label for="name" class="lead" class="form-control lead " >Nome:</label>
+                    <input type="text" name="user-name" id="name"  class="form-control row mb-3 " max="10" min="40">
                 </div>
                 <div class="container-sm">
                     <label for="email" class="lead">Email:</label>
-                    <input type="email" name="user-email" id="email"  class="form-control" max="50" min="10">
+                    <input type="email" name="user-email" id="email"  class="form-control row mb-3 " max="50" min="10">
                 </div>
 
-                <div id="option-status" class="container-sm">
+                <div id="option-status" class="container-sm lead">
+
+                    <div id="destiny">
+                        <p>Destino desejado : </p>
+                    </div>
                     <div  class="form-check form-check-inline">
                         <input type="radio" name="options" id="options-1"  class="form-check-input" >
                         <label for="options-1" class="form-check-label">Cidade</label>
+                    </div>
                     <div  class="form-check form-check-inline"> 
                         <input type="radio" name="options" id="options-2" class="form-check-input">
                         <label for="options-2" class="form-check-label">Campo</label>
@@ -42,26 +47,35 @@
                         <label for="options-4" class="form-check-label">Montanhas</label>
                     </div>
                 </div>
-                <div id="text-board" class="container-sm">
-                    <label for="board-text" id="text-board" class="lead">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?</label>
-                    <textarea name="board-text" id="board-text" class="form-control" cols="30" rows="10" maxlength="500"></textarea>
+
+                <div id="text-board">
+                    <div>
+                        <label for="board-text" id="text-board" class="lead">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?</label>
+                    </div>
+                    <div class="mb-3">
+                        <textarea name="board-text" id="board-text" class="form-control" cols="30" rows="10" maxlength="500"></textarea>
+                    </div>
                 </div>
 
-                <div id="date-time" class="container-sm">
-                    <div>
+                <div id="date-time">
+
+                    <div id="text-date">
                         <label for="data" class="lead">Qual a melhor data para realizar sua viagem? </label>
-                        <input type="date" name="data" id="data">
+                    </div>
+
+                    <div>
+                        <input type="date" name="data" id="data" class="form-control" >
                     </div>
                 </div>
 
                 <div id="check-options" class="container-sm">
-                    <div class="form-check ">
-                        <label for="check-1" class="lead">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?</label>
-                        <input type="checkbox" name="check-1" id="check-1">
+                    <div class="form-check form-switch">
+                        <input type="checkbox" name="check-1" id="check-1" class="form-check-input">
+                        <label for="check-1" class="form-check-label lead">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?</label>
                     </div>
-                    <div class="form-check">
-                        <label for="check-2" class="lead">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.</label>
-                        <input type="checkbox" name="check-2" id="check-2" required>
+                    <div class="form-check form-switch">
+                        <input type="checkbox" name="check-2" id="check-2" class="form-check-input">
+                        <label for="check-2" class="form-check-label lead">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.</label>
                     </div> 
                 </div>
 
@@ -75,6 +89,8 @@
 
             </form>
     </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+
     <script src="script.js"></script>
 </body>
 </html>
