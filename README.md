@@ -14,12 +14,12 @@ _São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento
 - [x] 03: Unix & Bash - Parte 1
 - [x] 04: Unix & Bash - Parte 2
 
-#### Bloco 02: Git, Github e Internet ⏳
+#### Bloco 02: Git, Github e Internet ✅
 - [x] 01: Git & Github - O que é e para que serve
 - [x] 02: Git & Github - Entendendo os comandos
 - [x] 03: Internet - Entendendo como ela funciona
 
-#### Bloco 03: Introdução à HTML e CSS
+#### Bloco 03: Introdução à HTML e CSS ✅
 - [x] 01: Introdução - HTML & CSS
 - [x] 01: HTML & CSS - Estruturas de página
 - [x] 02: HTML & CSS - Primeiros passos em CSS
@@ -27,7 +27,7 @@ _São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento
 - [x] 04: HTML Semântico
 - [x] **05: Projeto - Lessons Learned**
 
-#### Bloco 04: Introdução à JavaScript e Lógica de Programação
+#### Bloco 04: Introdução à JavaScript e Lógica de Programação ✅
 - [x] 01: Introdução - JavaScript
 - [x] 01: JavaScript - Primeiros passos
 - [x] 02: JavaScript - Array e loop for
@@ -35,34 +35,34 @@ _São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento
 - [x] 04: JavaScript - Objetos e funções
 - [x] **05: Projeto - Playground Functions**
 
-#### Bloco 05: JavaScript: DOM, Eventos e Web Storage
+#### Bloco 05: JavaScript: DOM, Eventos e Web Storage ✅
 - [x] 01: JavaScript - DOM e seletores
 - [x] 02: JavaScript - Trabalhando com elementos
 - [x] 03: JavaScript - Eventos
 - [x] 04: JavaScript - Web Storage
-- [ ] 05: Fundamentos - JavaScript - Projetos
-- [ ] **05: Projeto - Arte com Pixels**
-- [ ] **06: (Bônus) Projeto - Lista de tarefas**
-- [ ] **07: (Bônus) Projeto - Meme Generator**
-- [ ] **07: (Bônus) Projeto - Adivinhe a cor**
-- [ ] **07: (Bônus) Projeto - Carta misteriosa**
+- [x] 05: Fundamentos - JavaScript - Projetos
+- [x] **05: Projeto - Arte com Pixels**
+- [x] **06: (Bônus) Projeto - Lista de tarefas**
+- [x] **07: (Bônus) Projeto - Meme Generator**
+- [x] **07: (Bônus) Projeto - Adivinhe a cor**
+- [x] **07: (Bônus) Projeto - Carta misteriosa**
 
-#### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
-- [ ] 01: HTML & CSS - Forms
-- [ ] 02: Bibliotecas JavaScripte Frameworks CSS
+#### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo ⏳
+- [x] 01: HTML & CSS - Forms
+- [x] 02: Bibliotecas JavaScripte Frameworks CSS
 - [ ] 03: Introdução - CSS Flexbox
 - [ ] 03: CSS Flexbox - Parte 1
 - [ ] 04: CSS Flexbox - Parte 2
 - [ ] 05: CSS Responsivo - Mobile First
 - [ ] **06: Projeto - Trybewars**
 
-#### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
+#### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários 
 - [ ] 01: JavaScript ES6 - let, const, arrow functions e template literals
 - [ ] 02: JavaScript ES6 - Fluxo de exceção e Objetos
 - [ ] 03: Primeiros passos em Jest
 - [ ] **04: Projeto - JavaScript Testes unitários**
 
-#### Bloco 08: Higher Order Functions do JavaScript ES6
+#### Bloco 08: Higher Order Functions do JavaScript ES6 
 - [ ] 01: JavaScript ES6 - Introdução a Higher Order Functions
 - [ ] 02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [ ] 03: JavaScript ES6 - Higher Order Functions - map e filter
