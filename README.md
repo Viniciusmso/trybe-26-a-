@@ -47,22 +47,22 @@ _São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento
 - [x] **07: (Bônus) Projeto - Adivinhe a cor**
 - [x] **07: (Bônus) Projeto - Carta misteriosa**
 
-#### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo ⏳
+#### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo ✅
 - [x] 01: HTML & CSS - Forms
 - [x] 02: Bibliotecas JavaScripte Frameworks CSS
-- [ ] 03: Introdução - CSS Flexbox
-- [ ] 03: CSS Flexbox - Parte 1
-- [ ] 04: CSS Flexbox - Parte 2
-- [ ] 05: CSS Responsivo - Mobile First
-- [ ] **06: Projeto - Trybewars**
+- [x] 03: Introdução - CSS Flexbox
+- [x] 03: CSS Flexbox - Parte 1
+- [x] 04: CSS Flexbox - Parte 2
+- [x] 05: CSS Responsivo - Mobile First
+- [x] **06: Projeto - Trybewars**
 
-#### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários 
-- [ ] 01: JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 02: JavaScript ES6 - Fluxo de exceção e Objetos
-- [ ] 03: Primeiros passos em Jest
-- [ ] **04: Projeto - JavaScript Testes unitários**
+#### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários ✅
+- [x] 01: JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 02: JavaScript ES6 - Fluxo de exceção e Objetos
+- [x] 03: Primeiros passos em Jest
+- [x] **04: Projeto - JavaScript Testes unitários**
 
-#### Bloco 08: Higher Order Functions do JavaScript ES6 
+#### Bloco 08: Higher Order Functions do JavaScript ES6 ⏳
 - [ ] 01: JavaScript ES6 - Introdução a Higher Order Functions
 - [ ] 02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [ ] 03: JavaScript ES6 - Higher Order Functions - map e filter
