@@ -2,8 +2,6 @@ Esse é um projeto para o conteúdo de `CSS Flexbox`.
 
 ### COMEÇANDO OS EXERCÍCIOS
 
-![Trybe Gallery Preview](images/trybe-tech-gallery.jpeg)
-
 #### Exercício 1
 - Crie um cabeçalho para sua aplicação utilizando a tag `header`. Este cabeçalho **deve** possuir 3 elementos e estes devem ser posicionados utilizando **Flexbox**. O resultado deverá ser similar à estrutura da página "Trybe Tech-Gallery".
 
