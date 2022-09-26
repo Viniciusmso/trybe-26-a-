@@ -1,0 +1,54 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body  p{
+  font-size: 1.5em;
+  }
+  
+  article {
+  
+  }
+  
+  h1 {
+  font-size: 2em;
+  }
+  
+  h2 {
+  
+  }
+  
+  img {
+      max-width: 100%;
+  }
+  
+  main {
+  
+  }
+  
+  section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  figure {
+    margin: 10px;
+    width: 280px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 1em;
+  }
+
+  figure > img {
+    border-radius:200px;
+  }
+
+  figure figcaption {
+    padding: 10px;
+  }
