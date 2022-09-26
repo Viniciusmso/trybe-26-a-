@@ -1,6 +1,6 @@
-## Criar uma página para uma tela pequena 💻📲
+# Criar uma página para uma tela pequena 💻📲
 
-# Tarefas:
+## Tarefas:
 
 - [x] Faça o tamanho da fonte ser maior;
 - [x] Faça o tamanho da fonte dos elementos h1 ser menor;
@@ -18,4 +18,3 @@
 - [x] Ajuste o tamanho da fonte;
 - [x] Ajuste as margens da página;
 - [x] Adicione a propriedade max-width à página, para garantir que a largura das linhas não fique muito grande.
-- [x] 
