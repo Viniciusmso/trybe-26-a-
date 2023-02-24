@@ -62,82 +62,82 @@ _São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento
 - [x] 03: Primeiros passos em Jest
 - [x] **04: Projeto - JavaScript Testes unitários**
 
-#### Bloco 08: Higher Order Functions do JavaScript ES6 ⏳
+#### Bloco 08: Higher Order Functions do JavaScript ES6 ✅
 - [x] 01: JavaScript ES6 - Introdução a Higher Order Functions
 - [x] 02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [x] 03: JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 04: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] **06: Projeto - Zoo Functions**
+- [x] 04: JavaScript ES6 - Higher Order Functions - reduce
+- [x] 05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [x] **06: Projeto - Zoo Functions**
 
 ## Frontend
-#### Bloco 09: JavaScript e Testes Assíncronos
-- [ ] 01: Introdução - Frontend
-- [ ] 01: JavaScript Assíncrono e Callbacks
-- [ ] 02: JavaScript Assíncrono - Fetch API e async/await
-- [ ] 03: Jest - Testes Assíncronos
-- [ ] **04: Projeto - Carrinho de Compras**
+#### Bloco 09: JavaScript e Testes Assíncronos ✅
+- [x] 01: Introdução - Frontend
+- [x] 01: JavaScript Assíncrono e Callbacks
+- [x] 02: JavaScript Assíncrono - Fetch API e async/await
+- [x] 03: Jest - Testes Assíncronos
+- [x] **04: Projeto - Carrinho de Compras**
 
-#### Bloco 10: Introdução à React
-- [ ] 01: Introdução - React
-- [ ] 01: "Hello World!" no React
-- [ ] 02: Componentes React
-- [ ] **03: Projeto - Sistema Solar**
+#### Bloco 10: Introdução à React ✅
+- [x] 01: Introdução - React
+- [x] 01: "Hello World!" no React
+- [x] 02: Componentes React
+- [x] **03: Projeto - Sistema Solar**
 
-#### Bloco 11: Componentes com Estado, Eventos e Formulários React
-- [ ] 01: Componentes com estados e eventos
-- [ ] 02: Formulários no React
-- [ ] **03: Projeto - Tryunfo**
+#### Bloco 11: Componentes com Estado, Eventos e Formulários React ✅
+- [x] 01: Componentes com estados e eventos
+- [x] 02: Formulários no React
+- [x] **03: Projeto - Tryunfo**
 
-#### Bloco 12: Ciclo de Vida de Componentes e React Router
-- [ ] 01: Ciclo de vida de componentes
-- [ ] 02: React Router
-- [ ] **03: Projeto - Trybe Tunes**
+#### Bloco 12: Ciclo de Vida de Componentes e React Router ✅
+- [x] 01: Ciclo de vida de componentes
+- [x] 02: React Router
+- [x] **03: Projeto - Trybe Tunes**
 
-#### Bloco 13: Metodologias Ágeis
-- [ ] 01: Metodologias Ágeis
-- [ ] **02: Projeto - Frontend Online Store**
+#### Bloco 13: Metodologias Ágeis ✅
+- [x] 01: Metodologias Ágeis
+- [x] **02: Projeto - Frontend Online Store**
 
-#### Bloco 14: Testes automatizados com React Testing Library
-- [ ] 01: RTL - Primeiros passos
-- [ ] 02: RTL - Mocks e Inputs
-- [ ] 03: RTL - Testando React Router
-- [ ] **04: Projeto - Testes em React**
+#### Bloco 14: Testes automatizados com React Testing Library ✅
+- [x] 01: RTL - Primeiros passos
+- [x] 02: RTL - Mocks e Inputs
+- [x] 03: RTL - Testando React Router
+- [x] **04: Projeto - Testes em React**
 
-#### Bloco 15: Gerenciamento de estado com Redux
-- [ ] 01: Introdução ao Redux - O estado global da aplicação
-- [ ] 02: Usando o Redux no React
-- [ ] 03: Usando o Redux no React - Prática
-- [ ] 04: Usando o redux no React - Actions Assíncronas
-- [ ] 05: Testes em React-Redux
-- [ ] **06: Projeto - Trybe Wallet**
+#### Bloco 15: Gerenciamento de estado com Redux ✅
+- [x] 01: Introdução ao Redux - O estado global da aplicação
+- [x] 02: Usando o Redux no React
+- [x] 03: Usando o Redux no React - Prática
+- [x] 04: Usando o redux no React - Actions Assíncronas
+- [x] 05: Testes em React-Redux
+- [x] **06: Projeto - Trybe Wallet**
 
 #### Bloco 16: Projeto Jogo de Trivia
-- [ ] **01: Projeto - Jogo de Trivia**
+- [x] **01: Projeto - Jogo de Trivia**
 
-#### Bloco 17: Context API e React Hooks
-- [ ] 01: Context API do React
-- [ ] 02: React Hooks - useState e useContext
-- [ ] 03: React Hooks - useEffect e Hooks customizados
-- [ ] **04: Projeto - StarWars Datatable com Context API e Hooks**
+#### Bloco 17: Context API e React Hooks ✅
+- [x] 01: Context API do React
+- [x] 02: React Hooks - useState e useContext
+- [x] 03: React Hooks - useEffect e Hooks customizados
+- [x] **04: Projeto - StarWars Datatable com Context API e Hooks**
 
 #### Bloco 18: Projeto App de Receitas
 - [ ] **01: Projeto - App de Receitas**
 
 ## Backend
-#### Bloco 19: Docker: Utilizando Containers
-- [ ] 01: Introdução - Backend
-- [ ] 01: Utilizando Containers - Docker
-- [ ] 02: Manipulando Imagens no Docker
-- [ ] 03: Orquestrando Containers com Docker Compose
-- [ ] **04: Projeto - Docker Todo-List**
+#### Bloco 19: Docker: Utilizando Containers ✅
+- [x] 01: Introdução - Backend
+- [x] 01: Utilizando Containers - Docker
+- [x] 02: Manipulando Imagens no Docker
+- [x] 03: Orquestrando Containers com Docker Compose
+- [x] **04: Projeto - Docker Todo-List**
 
-#### Bloco 20: Introdução à SQL
-- [ ] 01: Introdução - Bancos de dados relacionais
-- [ ] 01: Banco de dados SQL
-- [ ] 02: Encontrando dados em um banco de dados
-- [ ] 03: Filtrando dados de uma forma específica
-- [ ] 04: Manipulando tabelas
+#### Bloco 20: Introdução à SQL 
+- [x] 01: Introdução - Bancos de dados relacionais
+- [x] 01: Banco de dados SQL
+- [x] 02: Encontrando dados em um banco de dados
+- [x] 03: Filtrando dados de uma forma específica
+- [x] 04: Manipulando tabelas
 - [ ] **05: Projeto - All For One**
 
 #### Bloco 21: Funções SQL, JOINs e Normalização
