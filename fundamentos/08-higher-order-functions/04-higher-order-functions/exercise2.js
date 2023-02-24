@@ -60,12 +60,13 @@ const books = [
     releaseYear: 1928,
   },
 ];
-  
-//Crie um array em ordem alfabética apenas com os nomes de todas as pessoas autoras de ficção científica ou fantasia.
 
-const fantasyOrScienceFictionAuthors = (books) => {
-    const book = books.filter((book) => book.genre === 'Ficção Científica' || book.genre === 'Fantasia');
-    return book.map(book => book.author.name).sort((a, b) => a.name - b.name);
+//Crie uma string com os nomes de todas as pessoas autoras.
+
+const expectedResult = "George R. R. Martin, J. R. R. Tolkien, Isaac Asimov, Frank Herbert, Stephen King, H. P. Lovecraft.";
+let test;
+function reduceNames(books) {
+ return books.reduce((acc, book) => `${acc} ${book.author.name}.`, '');
 }
 
-console.log(fantasyOrScienceFictionAuthors(books))
+console.log(reduceNames(books));
